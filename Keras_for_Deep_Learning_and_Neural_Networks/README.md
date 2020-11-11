@@ -7,3 +7,6 @@ In this lab, you will learn how to use the Keras library to build a regression m
 
 # Classification with Keras
 In this lab, you will learn how to use the Keras library to build a classification model. 
+
+# Convolutional Neural Networks with Keras
+In this lab, you will learn how to use the Keras library to build convolutional neural networks. You may also download the lab.

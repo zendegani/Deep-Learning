@@ -4,3 +4,6 @@ In this lab, you will build a neural network from scratch and code how it perfor
 
 # Regression with Keras
 In this lab, you will learn how to use the Keras library to build a regression model.
+
+# Classification with Keras
+In this lab, you will learn how to use the Keras library to build a classification model. 

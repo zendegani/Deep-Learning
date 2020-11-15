@@ -1,2 +1,2 @@
-# Machine Learning / Deep Learning
-Projects related to Machine Learning especially Deep Learning
+# Deep-Learning
+This repository contains deep learning related projects.

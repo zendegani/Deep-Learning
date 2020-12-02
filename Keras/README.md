@@ -2,6 +2,9 @@
 
 In this lab, you will build a neural network from scratch and code how it performs predictions using forward propagation.
 
+<img src="http://cocl.us/general_neural_network" alt="Neural Network General" width=600px>
+
+
 # Regression with Keras
 In this lab, you will learn how to use the Keras library to build a regression model.
 

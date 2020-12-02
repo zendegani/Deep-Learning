@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://keras.io/img/logo.png" alt="Keras"/>
+</p>
+
 # Artificial Neural Networks
 
 In this lab, you will build a neural network from scratch and code how it performs predictions using forward propagation.

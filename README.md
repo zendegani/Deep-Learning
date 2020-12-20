@@ -4,7 +4,7 @@ This repository contains deep learning related projects. Each project is contain
 
 Getting started:
 ----------------
-Run the Jupyter Notebooks on mybiner (online Docker container image + Jupyter Notebook):
+Run the Jupyter Notebooks on mybinder (online Docker container image + Jupyter Notebook):
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zendegani/Deep-Learning.git/HEAD)
 

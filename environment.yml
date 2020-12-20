@@ -1,11 +1,11 @@
 name: python 3
 dependencies:
-  - python
-  - numpy
+  - python==3.6.11
+  - numpy==1.16.4
   - matplotlib
   - pandas
-  - scipy
+  - scipy==1.5.1
+  - tensorflow==1.14.0
+  - keras==2.3.1
   - sklearn
   - torch
-  - TensorFlow
-  - keras

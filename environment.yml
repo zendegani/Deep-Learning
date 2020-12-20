@@ -1,11 +1,16 @@
 name: python 3
+channels:
+- conda-forge
+- pytorch
 dependencies:
   - python==3.6.11
   - numpy==1.16.4
-  - matplotlib
   - pandas
+  - scikit-learn=0.20
   - scipy==1.5.1
+  - matplotlib
   - tensorflow==1.14.0
   - keras==2.3.1
-  - sklearn
-  - torch
+  - pytorch==1.7.1
+  # - torchvision
+  # - torchaudio

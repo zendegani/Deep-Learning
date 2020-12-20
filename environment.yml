@@ -4,4 +4,8 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
-  - scipy   
+  - scipy
+  - sklearn
+  - torch
+  - TensorFlow
+  - keras

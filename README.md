@@ -4,7 +4,7 @@ This repository contains deep learning related projects. Each project is contain
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zendegani/Deep-Learning.git/HEAD)
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1000/1*ZLLZPo4kiH-cBzUYEukEVg.png" alt="PyTorch"/>
-    <img src="https://keras.io/img/logo.png" alt="Keras"/>
+  <img src="https://miro.medium.com/max/1000/1*ZLLZPo4kiH-cBzUYEukEVg.png" alt="PyTorch" width="200" />
+    <img src="https://keras.io/img/logo.png" alt="Keras" width=10% />
 </p>
 
